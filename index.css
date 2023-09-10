@@ -1,0 +1,58 @@
+/*************************************KUTULAR*********************************************/
+
+.box-1 {
+    width: 1200px;
+    height: 63px;
+    margin-left:80px;
+    margin-right: 80px;
+}
+
+.box-2 {
+    width: 445px;
+    height: 80px;
+    margin-left:80px;
+    margin-top: 3px;
+    float: left;
+}
+
+.box-3 {
+    width: 235px;
+    height: 80px;
+    margin-top: 3px;
+    margin-left: 3px;
+    float: left;
+}
+
+.box-4 {
+    width: 520px;
+    height: 80px;
+    margin-top: 3px;
+    margin-left: 3px;
+    float: left;
+}
+
+.input-1 {
+    width: 300px;
+    margin: top 0px;
+}
+
+
+
+
+/**********************************RENKLER************************************************/
+
+.bg-gray {
+    background-color:#EEEEEE;
+}
+
+.bg-cyan-1 {
+    background-color: #7EE5DA;
+}
+
+.bg-cyan-2 {
+    background-color: #70CCC2;
+}
+
+.bg-cyan-3 {
+    background-color: #62B3AA;
+}
